@@ -1,0 +1,6 @@
+img.custom-image {
+  width: 500px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
