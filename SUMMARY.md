@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Linxdot Freedom Revive](revive_linxdot_freedom.md)
-* [Installing ChirpStack](revive_linxdot_freedom.md)
-* [Installing ChirpStack](install_chirpstack.md)
+* [Linxdot Freedom Revive](reviveLinxdotFreedom.md)
+* [Installing ChirpStack](reviveLinxdotFreedom.md)
+* [Installing ChirpStack](installChirpstack.md)
