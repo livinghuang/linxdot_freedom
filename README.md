@@ -85,3 +85,4 @@ Linxdot Freedom 專為以下用戶設計：
 
 ## 未來願景
 Linxdot Freedom 體現了對開源價值與物聯網創新的承諾。通過為用戶提供所需的工具來創建、管理和擴展其物聯網網路，Linxdot Freedom 致力於成為下一波物聯網連接浪潮的前沿。
+# linxdot_freedom_book
