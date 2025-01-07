@@ -25,11 +25,13 @@ With ChirpStack, you can efficiently manage LoRaWAN devices, gateways, and appli
    cd /etc/linxdot-opensource/
    ```
    ![Install Chirpstack0](/pictures/installChirpstack0.png)
+
 3. Run the ChirpStack installation script:
    ```bash
    ./install-chirpstack.sh
    ```
    ![Install Chirpstack1](/pictures/installChirpstack1.png)
+   
 4. After the installation completes, verify that the Docker containers are running:
    ```bash
    docker ps
@@ -110,7 +112,7 @@ ChirpStack 是一個開源的 LoRaWAN 網路伺服器堆疊。它為 LoRaWAN 網
    ./install-chirpstack.sh
    ```
   ![Install Chirpstack1](/pictures/installChirpstack1.png)
-  
+
 4. 安裝完成後，使用以下指令檢查 Docker 容器是否正在執行：
    ```bash
    docker ps
