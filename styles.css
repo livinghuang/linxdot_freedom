@@ -1,5 +1,14 @@
+img.headline-image {
+  width: 1000px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin: auto;
+}
+
 img.custom-image {
-  width: 500px;
+  width: 1000px;
   height: auto;
   border: 1px solid #ccc;
   border-radius: 5px;

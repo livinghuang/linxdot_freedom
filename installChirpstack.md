@@ -3,7 +3,7 @@
 This guide will explain what ChirpStack is and provide detailed steps to install it on the Linxdot Freedom gateway.
 
 ---
-<img src="/pictures/chirpstack.png" alt="chirpstack" class="custom-image">
+<img src="/pictures/chirpstack.png" alt="chirpstack" class="headline-image">
 
 ## **What is ChirpStack?**
 ChirpStack is an open-source LoRaWAN Network Server stack. It provides essential components for LoRaWAN networks, including:
@@ -25,19 +25,20 @@ With ChirpStack, you can efficiently manage LoRaWAN devices, gateways, and appli
    ```bash
    cd /etc/linxdot-opensource/
    ```
-<img src="/pictures/installChirpstack0.png" alt="Install Chirpstack Step 0" class="custom-image">
+   <img src="/pictures/installChirpstack0.png" alt="Install Chirpstack Step 0" class="operation-image">
 
 3. Run the ChirpStack installation script:
    ```bash
    ./install-chirpstack.sh
    ```
-<img src="/pictures/installChirpstack1.png" alt="Install Chirpstack Step 1" class="custom-image">
+   <img src="/pictures/installChirpstack1.png" alt="Install Chirpstack Step 1" class="operation-image">
 
 4. After the installation completes, verify that the Docker containers are running:
    ```bash
    docker ps
    ```
 
+---
 
 ### **Step 2: Log in to ChirpStack Admin**
 1. Open a web browser and go to:
@@ -86,6 +87,8 @@ For further assistance, refer to the official Linxdot or ChirpStack documentatio
 
 ---
 
+<img src="/pictures/chirpstack.png" alt="chirpstack" class="operation-image">
+
 ## **什麼是 ChirpStack？**
 ChirpStack 是一個開源的 LoRaWAN 網路伺服器堆疊。它為 LoRaWAN 網路提供了以下重要組件：
 
@@ -105,13 +108,13 @@ ChirpStack 是一個開源的 LoRaWAN 網路伺服器堆疊。它為 LoRaWAN 網
    ```bash
    cd /etc/linxdot-opensource/
    ```
-  ![Install Chirpstack0](/pictures/installChirpstack0.png){width=100}
+   <img src="/pictures/installChirpstack0.png" alt="Install Chirpstack Step 0" class="operation-image">
 
 3. 執行 ChirpStack 安裝腳本：
    ```bash
    ./install-chirpstack.sh
    ```
-  ![Install Chirpstack1](/pictures/installChirpstack1.png)
+   <img src="/pictures/installChirpstack1.png" alt="Install Chirpstack Step 1" class="operation-image">
 
 4. 安裝完成後，使用以下指令檢查 Docker 容器是否正在執行：
    ```bash
