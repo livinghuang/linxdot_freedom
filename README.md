@@ -1,5 +1,5 @@
 # Linxdot Freedom: Redefining IoT Connectivity
-
+![LD1002](/pictures/LD1002.png)
 ## Project Overview
 Linxdot Freedom is a transformative reimagining of the Linxdot product line. Originally a Helium hotspot device, Linxdot Freedom has been evolved into a powerful, flexible LoRaWAN gateway designed for modern IoT applications. By integrating the open-source **OpenWRT** operating system and **ChirpStack**, Linxdot Freedom empowers users with complete control over their IoT infrastructure, breaking free from the constraints of proprietary ecosystems.
 
