@@ -44,7 +44,7 @@ Linxdot Freedom embodies a commitment to open-source values and IoT innovation. 
 ---
 
 # Linxdot Freedom：重新定義物聯網連接
-
+![LD1002](/pictures/LD1002.png)
 ## 專案概述
 Linxdot Freedom 是 Linxdot 產品線的一次變革性重新定義。原本作為 Helium 熱點設備，Linxdot Freedom 現已升級為一款功能強大且靈活的 LoRaWAN 閘道設備，專為現代物聯網應用設計。通過整合開源的 **OpenWRT** 作業系統和 **ChirpStack**，Linxdot Freedom 讓用戶能夠完全掌控其物聯網基礎設施，擺脫專有生態系統的限制。
 

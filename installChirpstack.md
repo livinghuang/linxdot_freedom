@@ -3,7 +3,7 @@
 This guide will explain what ChirpStack is and provide detailed steps to install it on the Linxdot Freedom gateway.
 
 ---
-
+![chirpstack](/pictures/chirpstack.png)
 ## **What is ChirpStack?**
 ChirpStack is an open-source LoRaWAN Network Server stack. It provides essential components for LoRaWAN networks, including:
 
@@ -18,15 +18,18 @@ With ChirpStack, you can efficiently manage LoRaWAN devices, gateways, and appli
 ## **Steps to Install ChirpStack on Linxdot Freedom**
 
 ### **Step 1: Install ChirpStack**
+
 1. Open a terminal.
 2. Navigate to the Linxdot open-source tools directory:
    ```bash
    cd /etc/linxdot-opensource/
    ```
+   ![Install Chirpstack0](/pictures/installChirpstack0.png)
 3. Run the ChirpStack installation script:
    ```bash
    ./install-chirpstack.sh
    ```
+   ![Install Chirpstack1](/pictures/installChirpstack1.png)
 4. After the installation completes, verify that the Docker containers are running:
    ```bash
    docker ps
@@ -100,10 +103,12 @@ ChirpStack 是一個開源的 LoRaWAN 網路伺服器堆疊。它為 LoRaWAN 網
    ```bash
    cd /etc/linxdot-opensource/
    ```
+  ![Install Chirpstack0](/pictures/installChirpstack0.png)
 3. 執行 ChirpStack 安裝腳本：
    ```bash
    ./install-chirpstack.sh
    ```
+  ![Install Chirpstack1](/pictures/installChirpstack1.png)
 4. 安裝完成後，使用以下指令檢查 Docker 容器是否正在執行：
    ```bash
    docker ps

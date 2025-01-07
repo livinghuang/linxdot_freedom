@@ -3,12 +3,12 @@
 This guide explains how to restore your Linxdot Freedom gateway to its default firmware state using the **Linxdot Freedom Revive** method. Follow these steps carefully to ensure a successful reflash process.
 
 ---
-
+![Revive](/pictures/REVIVE.png)
 ## **Requirements**
 
 1. **Hardware**:
    - Linxdot LD1002 gateway.
-   - USB cable (preferably the one provided with the gateway).
+   - USB cable.
    - Windows-based PC.
 
 2. **Software**:
@@ -18,6 +18,7 @@ This guide explains how to restore your Linxdot Freedom gateway to its default f
 ---
 
 ## **Step 1: Install the Factory Tool**
+![Hotspot Recovery Tool](/pictures/hotspotRecoveryTool.png)
 1. Download the **Factory Tool Installer** from [this link](https://linxdot-opensource.v7idea.com/sdk/Linxdot-Factory-tool-Installer.zip).
 2. Extract the downloaded ZIP file and run the installer.
 3. Follow the on-screen instructions to complete the installation.
@@ -25,6 +26,7 @@ This guide explains how to restore your Linxdot Freedom gateway to its default f
 ---
 
 ## **Step 2: Download the Latest Firmware**
+![DownLoad Image](/pictures/downLoadImage.png)
 1. Visit the [firmware download page](https://linxdot-opensource.v7idea.com/images/linxdot-opensource-image-2.0.0.05.tar.gz).
 2. Download the firmware package to your PC.
 3. Keep the firmware file ready for the reflashing process.
@@ -32,6 +34,7 @@ This guide explains how to restore your Linxdot Freedom gateway to its default f
 ---
 
 ## **Step 3: Prepare the Gateway**
+![bt pair](/pictures/btpair.png)
 1. Power off the Linxdot LD1002 gateway.
 2. Locate the **BT Repair Key** at the back of the gateway.
 3. Press and hold the **BT Repair Key** while powering on the device.
@@ -88,7 +91,7 @@ Reflashing your Linxdot LD1002 resets it to factory settings. Make sure to back 
 本指南將說明如何使用 **Linxdot Freedom Revive** 方法將 Linxdot Freedom 閘道恢復到默認韌體狀態。請仔細按照以下步驟操作，以確保重新燒錄過程成功。
 
 ---
-
+![Revive](/pictures/REVIVE.png)
 ## **需求條件**
 
 1. **硬體**：
@@ -103,6 +106,7 @@ Reflashing your Linxdot LD1002 resets it to factory settings. Make sure to back 
 ---
 
 ## **步驟 1：安裝 Factory Tool**
+![Hotspot Recovery Tool](/pictures/hotspotRecoveryTool.png)
 1. 從[此連結](https://linxdot-opensource.v7idea.com/sdk/Linxdot-Factory-tool-Installer.zip)下載 **Factory Tool Installer**。
 2. 解壓縮下載的 ZIP 文件並運行安裝程式。
 3. 按照螢幕上的指示完成安裝。
@@ -110,6 +114,7 @@ Reflashing your Linxdot LD1002 resets it to factory settings. Make sure to back 
 ---
 
 ## **步驟 2：下載最新韌體**
+![DownLoad Image](/pictures/downLoadImage.png)
 1. 訪問[韌體下載頁面](https://linxdot-opensource.v7idea.com/images/linxdot-opensource-image-2.0.0.05.tar.gz)。
 2. 將韌體包下載到您的電腦。
 3. 將韌體文件準備好以供重新燒錄過程使用。
@@ -117,7 +122,8 @@ Reflashing your Linxdot LD1002 resets it to factory settings. Make sure to back 
 ---
 
 ## **步驟 3：準備閘道設備**
-1. 關閉 Linxdot LD1002 閘道設備電源。
+![bt pair](/pictures/btpair.png)
+1. 拔除 Linxdot LD1002 閘道設備電源。
 2. 找到閘道背面的 **BT Repair Key**。
 3. 按住 **BT Repair Key** 並打開電源。
 4. 設備將進入 **重新燒錄模式**，此時 Factory Tool 會檢測到設備已連接。
